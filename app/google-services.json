@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87411288934",
+    "project_id": "firestoredatabase-3ef9a",
+    "storage_bucket": "firestoredatabase-3ef9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87411288934:android:5fd6b6944991538a9036a7",
+        "android_client_info": {
+          "package_name": "com.faisalgohar.firestore.googlemail.gauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87411288934-fobb7s3q8b4iorf9801ksll98lbvg0i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr2HvvBQPWEBI6CORDjCwjeCt2BeAMAtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87411288934-fobb7s3q8b4iorf9801ksll98lbvg0i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
